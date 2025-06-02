@@ -1,0 +1,858 @@
+[
+  {
+    "text": "Wa Alaikum Salaam. May Allah's peace be with you always. How can I help you today?",
+    "tag": "islamic_greeting"
+  },
+  {
+    "text": "Wa Alaikum Salaam warahmatullahi wabarakatuh. Go with Allah's blessings.",
+    "tag": "islamic_greeting"
+  },
+  {
+    "text": "Wa Alaikum Salaam. May Allah's peace be with you always. How can I help you today?",
+    "tag": "islamic_greeting"
+  },
+  {
+    "text": "Wa Alaikum Salaam dear brother/sister. How may I assist you today?",
+    "tag": "islamic_greeting"
+  },
+  {
+    "text": "Wa Alaikum Salaam wa Rahmatullah. May Allah's mercy be upon you.",
+    "tag": "islamic_greeting"
+  },
+  {
+    "text": "وعليكم السلام ورحمة الله وبركاته. كيف يمكنني مساعدتك اليوم؟",
+    "tag": "islamic_greeting"
+  },
+  {
+    "text": "Salaam alaikum! May your day be filled with Allah's blessings.",
+    "tag": "islamic_greeting"
+  },
+  {
+    "text": "Wa Alaikum Salaam. How can I assist you on this blessed day?",
+    "tag": "islamic_greeting"
+  },
+  {
+    "text": "Wa Alaikum Salaam. Peace be upon you as well. What can I do for you?",
+    "tag": "islamic_greeting"
+  },
+  {
+    "text": "Wa Alaikum Salaam. May the peace and blessings of Allah be with you. How may I be of service?",
+    "tag": "islamic_greeting"
+  },
+
+  {
+    "text": "Wa Alaikum Salaam warahmatullahi wabarakatuh. Go with Allah's blessings.",
+    "tag": "islamic_greeting"
+  },
+
+  {
+    "text": "Wa Alaikum Salaam. May Allah's mercy and blessings be upon you. What's on your mind?",
+    "tag": "islamic_greeting"
+  },
+  {
+    "text": "Salaam Alaikum warahmatullah. Walk in the light of Allah's guidance. How can I help?",
+    "tag": "islamic_greeting"
+  },
+
+  {
+    "text": "Hi there! How can I help you today?",
+    "tag": "greeting"
+  },
+  {
+    "text": "Hello! Nice to meet you.",
+    "tag": "greeting"
+  },
+  {
+    "text": "Hi! What brings you here?",
+    "tag": "greeting"
+  },
+  {
+    "text": "Good morning! Have a wonderful day ahead.",
+    "tag": "morning_greeting"
+  },
+  {
+    "text": "Morning! How are you today?",
+    "tag": "morning_greeting"
+  },
+  {
+    "text": "Good morning! What's your plan for today?",
+    "tag": "morning_greeting"
+  },
+  {
+    "text": "Afternoon to you too! How can I assist?",
+    "tag": "afternoon_greeting"
+  },
+  {
+    "text": "Good afternoon! What brings you here?",
+    "tag": "afternoon_greeting"
+  },
+  {
+    "text": "Good evening! How was your day?",
+    "tag": "evening_greeting"
+  },
+  {
+    "text": "Evening! Ready to relax after the day?",
+    "tag": "evening_greeting"
+  },
+  {
+    "text": "Good evening! What can I help you with?",
+    "tag": "evening_greeting"
+  },
+  {
+    "text": "I'm doing well, thanks for asking! How about you?",
+    "tag": "how_are_you"
+  },
+  {
+    "text": "All good here! How are you today?",
+    "tag": "how_are_you"
+  },
+  {
+    "text": "I'm great! Hope you're doing well too.",
+    "tag": "how_are_you"
+  },
+  {
+    "text": "Not much, just here to help! What about you?",
+    "tag": "whats_up"
+  },
+  {
+    "text": "All good here! What's new with you?",
+    "tag": "whats_up"
+  },
+  {
+    "text": "Just hanging out. How can I assist you today?",
+    "tag": "whats_up"
+  },
+
+  {
+    "text": "Assalam o Alaikum! Eid Mubarak. 🌙✨",
+    "tag": "Greeting"
+  },
+  {
+    "text": "Eid ke is pyare din par dua hai ke aap ki har dua qubool ho. Eid Mubarak! 🤲🌸",
+    "tag": "Greeting"
+  },
+  {
+    "text": "Chand ki roshni, phoolon ki khushboo, aur Eid ki khushiyan mubarak hon aapko. 🌙💐",
+    "tag": "Greeting"
+  },
+  {
+    "text": "Eid ka chand aapki zindagi mein khushiyan bhar de. Eid Mubarak! 🌟😊",
+    "tag": "Greeting"
+  },
+  {
+    "text": "Dil se dua hai ke yeh Eid aap ke liye sukoon, khushi aur barkat laye. ✨🕊️",
+    "tag": "Greeting"
+  },
+  {
+    "text": "Har pal muskurahat se bhara ho, har din Eid jaisa ho. Eid Mubarak ho! 🌸💫",
+    "tag": "Greeting"
+  },
+  {
+    "text": "Taqabbal Allahu minna wa minkum. Eid Mubarak to you and your family! 🤍🌙",
+    "tag": "Greeting"
+  },
+  {
+    "text": "Eid aya, khushiyan laya! Har taraf noor hi noor ho. Eid Mubarak! 🕌✨",
+    "tag": "Greeting"
+  },
+  {
+    "text": "May this Eid bring countless blessings in your life. Eid Mubarak dear! 🌟💖",
+    "tag": "Greeting"
+  },
+  {
+    "text": "Ghar walon ke saath hansna, muskurana, mithaiyan aur duaen – yeh hai Eid. Eid Mubarak! 🍬🤗",
+    "tag": "Greeting"
+  },
+  {
+    "text": "Eid ul-Adha, also known as Bari Eid (the Greater Eid), is an important Islamic festival.",
+    "tag": "Eid_Overview"
+  },
+  {
+    "text": "It means 'the festival of sacrifice'.",
+    "tag": "Eid_Overview"
+  },
+  {
+    "text": "It is celebrated in remembrance of the Sunnah of Prophet Ibrahim (AS), who was ready to sacrifice his son on Allah's command.",
+    "tag": "Eid_Overview"
+  },
+  {
+    "text": "Allah accepted his trial and sent a ram to be sacrificed in place of his son.",
+    "tag": "Eid_Overview"
+  },
+  {
+    "text": "Eid ul-Adha falls on the 10th of Dhul-Hijjah in the Islamic calendar.",
+    "tag": "Eid_Overview"
+  },
+  {
+    "text": "A long time ago, there lived a Prophet named Hazrat Ibrahim (AS). He believed in one God while others worshipped idols.",
+    "tag": "Prophet_Story"
+  },
+  {
+    "text": "Ibrahim (AS) and his wife Hajrah (AS) were blessed with a son, Ismail (AS), after many years.",
+    "tag": "Prophet_Story"
+  },
+  {
+    "text": "Allah gave Ibrahim (AS) a dream where he saw himself sacrificing his son Ismail.",
+    "tag": "Prophet_Story"
+  },
+  {
+    "text": "Ibrahim (AS) told Ismail (AS), who responded with obedience and patience.",
+    "tag": "Prophet_Story"
+  },
+  {
+    "text": " 'Do that which you have been commanded. Insha Allah, you shall find me among the patient ones.' (37:102)",
+    "tag": "Prophet_Story"
+  },
+  {
+    "text": "Ibrahim (AS) blindfolded himself during the sacrifice, but Allah replaced Ismail with a ram.",
+    "tag": "Prophet_Story"
+  },
+  {
+    "text": "This act of faith is remembered every year through the Festival of Sacrifice.",
+    "tag": "Prophet_Story"
+  },
+  {
+    "text": "The Prophet (S.A.W) said: It is the Sunnah of your father Ibrahim (AS). For every hair of the Qurbani, you receive a reward from Allah.\u201d (Tirmidhi)",
+    "tag": "Prophet_Story"
+  },
+  {
+    "text": "Eid prayer consists of two rak'ahs (units of prayer).",
+    "tag": "Eid_Prayer"
+  },
+  {
+    "text": "Six extra takbeers: three in the first rakah, three in the second.",
+    "tag": "Eid_Prayer"
+  },
+  {
+    "text": "There is no adhan or iqamah before the Eid prayer.",
+    "tag": "Eid_Prayer"
+  },
+  {
+    "text": "After the prayer, a khutbah (sermon) is delivered and it is Sunnah, not obligatory to attend it..",
+    "tag": "Eid_Prayer"
+  },
+  {
+    "text": "Time for Eid prayer starts 15-20 minutes after sunrise and ends before Zawal (midday).",
+    "tag": "Eid_Prayer"
+  },
+  {
+    "text": "It is Sunnah Muakkadah (highly recommended) and should be offered in congregation.",
+    "tag": "Eid_Prayer"
+  },
+  {
+    "text": "One common mistake is performing the Eid prayer before sunrise. The correct time starts after the sun has risen (approximately 15–20 minutes post-sunrise).",
+    "tag": "Eid_Prayer_Mistake_Timing",
+    "source": "Fiqh-us-Sunnah Vol. 2, Section on Eid"
+  },
+  {
+    "text": "It is incorrect to call adhan or iqamah before Eid prayer, as the Prophet (SAW) never did so.",
+    "tag": "Eid_Prayer_Mistake_Adhan",
+    "source": "Sahih Muslim 885a"
+  },
+  {
+    "text": "Some people forget or add extra takbeers. The Sunnah is 3 takbeers in the first rak’ah and 3 in the second, before recitation.",
+    "tag": "Eid_Prayer_Mistake_Takbeer",
+    "source": "Sunan Abu Dawood 1149"
+  },
+  {
+    "text": "The Eid khutbah should be delivered after the prayer, not before it — reversing the order is against the Sunnah.",
+    "tag": "Eid_Prayer_Mistake_Khutbah_Order",
+    "source": "Sahih Bukhari 962"
+  },
+  {
+    "text": "Though not obligatory, leaving immediately after the Eid prayer without listening to the khutbah is against the etiquette of the Sunnah.",
+    "tag": "Eid_Prayer_Mistake_Khutbah",
+    "source": "Sahih Bukhari 962"
+  },
+  {
+    "text": "It is Sunnah to say the takbeerat after Fajr until the Eid prayer begins, but many neglect this important Sunnah.",
+    "tag": "Eid_Prayer_Mistake_TakbeerTime",
+    "source": "Fiqh-us-Sunnah Vol. 2, Eid Takbirat"
+  },
+  {
+    "text": "Performing Eid prayer alone without a valid excuse (e.g., illness, distance) is a deviation from the Sunnah of congregational Eid prayer.",
+    "tag": "Eid_Prayer_Mistake_Solo",
+    "source": "Sahih Bukhari 956"
+  },
+  {
+    "text": "Some believe Eid prayer is fard (obligatory) like Jummah, but the correct view from majority scholars is that it's Sunnah Mu’akkadah.",
+    "tag": "Eid_Prayer_Mistake_Fard",
+    "source": "Fiqh-us-Sunnah Vol. 2"
+  },
+  {
+    "text": "The Prophet (SAW) prayed Eid in open spaces. Unless weather or legal limitations apply, it is better to hold Eid outdoors.",
+    "tag": "Eid_Prayer_Mistake_Location",
+    "source": "Sahih Bukhari 956"
+  },
+  {
+    "text": "It is disrespectful to talk, use the phone, or walk away during the Eid khutbah.",
+    "tag": "Eid_Prayer_Mistake_Distraction",
+    "source": "General etiquette from Khutbah hadith – Sahih Muslim 857a"
+  },
+  {
+    "text": "On Eid al-Fitr, it is Sunnah to eat an odd number of dates before going to the Eid prayer.",
+    "tag": "Eid_Sunnah_Eating_Sweet",
+    "source": "Sahih Bukhari 953"
+  },
+  {
+    "text": "On Eid al-Adha, the Prophet (SAW) would not eat anything until after the Eid prayer, and then he would eat from his Qurbani meat.",
+    "tag": "Eid_Adha_Eating_Sunnah",
+    "source": "Sunan al-Tirmidhi 542"
+  },
+  {
+    "text": "It is part of Eid tradition to greet each other after Eid prayer by saying: 'Taqabbal Allahu minna wa minkum' (May Allah accept from us and from you).",
+    "tag": "Eid_Greetings_Custom",
+    "source": "Al-Fath al-Bari by Ibn Hajar"
+  },
+  {
+    "text": "After Eid prayer, it is a common cultural practice in many Muslim communities to hug, shake hands, and greet one another warmly.",
+    "tag": "Eid_Culture_Greetings",
+    "source": "Cultural tradition, not a mandatory Sunnah"
+  },
+  {
+    "text": "The Prophet (SAW) would wear his best clothes on Eid. It is Sunnah to dress cleanly and beautifully on this day.",
+    "tag": "Eid_Sunnah_Dress",
+    "source": "Sunan Ibn Majah 1315"
+  },
+  {
+    "text": "The Prophet (SAW) would go to the Eid prayer using one route and return using a different route.",
+    "tag": "Eid_Sunnah_Route",
+    "source": "Sahih Bukhari 986"
+  },
+  {
+    "text": "It is Sunnah to recite the Eid takbeerat out loud while walking or driving to the Eid prayer.",
+    "tag": "Eid_Sunnah_Takbeer",
+    "source": "Musannaf Ibn Abi Shaybah 2/165"
+  },
+  {
+    "text": "It is Sunnah for men to apply perfume before heading to the Eid prayer.",
+    "tag": "Eid_Sunnah_Fragrance",
+    "source": "Musnad Ahmad 19010"
+  },
+  {
+    "text": "The Sahabah used to say 'Taqabbal Allahu minna wa minkum' after Eid, showing that offering congratulations is permissible.",
+    "tag": "Eid_Sunnah_Congratulate",
+    "source": "Fath al-Bari"
+  },
+  {
+    "text": "Eid is a day of joy. Smiling, sharing gifts, and spreading happiness is encouraged and part of the Islamic spirit of Eid.",
+    "tag": "Eid_Culture_Joy",
+    "source": "General Islamic Adab"
+  },
+  {
+    "text": "Sacrifice begins after Eid prayer and lasts for three days (10th to 12th Dhul-Hijjah(Asar)).",
+    "tag": "Qurbani_Rules"
+  },
+  {
+    "text": "It is wajib (obligatory) for those who are sahib-e-nisab (financially capable).",
+    "tag": "qurbani_Rules"
+  },
+  {
+    "text": "Acceptable animals: goat, sheep, cow, camel.",
+    "tag": "acceptable_animals"
+  },
+  {
+    "text": "A goat or sheep is for one person.",
+    "tag": "qurbani_Rules"
+  },
+  {
+    "text": "A cow or camel can be shared by up to seven people.",
+    "tag": "qurbani_Rules"
+  },
+  {
+    "text": "The animal must be healthy and meet age requirements.",
+    "tag": "qurbani_Rules"
+  },
+  {
+    "text": "Minimum age requirements: \nGoat / Sheep: At least 1 year old \nCow / Bull / Buffalo: At least 2 years old \nCamel: At least 5 years old",
+    "tag": "age_requirement"
+  },
+  {
+    "text": "Sacrifice should be done with Allah's name and the prescribed prayer.",
+    "tag": "qurbani_Rules"
+  },
+  {
+    "text": "The animal should be laid on its side facing the Qibla.\nThe person performing the sacrifice should say: “Bismillahi Allahu Akbar” before slaughtering.\n\nA sharp knife should be used to swiftly cut:\n- The windpipe\n- The food pipe\n- The two main blood vessels in the neck\n\nThe animal should not be skinned or moved until it has completely died.",
+    "tag": "methods"
+  },
+  {
+    "text": "Qurbani is obligatory on every Muslim who is: Sane (mentally sound), Adult (has reached puberty), Financially capable (possesses wealth equal to or above the nisab threshold).",
+    "tag": "Eligibility_for_sacrifice"
+  },
+  {
+    "text": "A person is considered sahib-e-nisab if they own surplus wealth equivalent to the zakat threshold.",
+    "tag": "sahib-e-nisab"
+  },
+  {
+    "text": "Both men and women are required to offer Qurbani if are eligible for sacrifice.",
+    "tag": "men_women_offer_qurbani"
+  },
+  {
+    "text": "Meat is divided into three equal parts: \n one-third for your family \n one-third for relatives and friends \n one-third for the poor and needy.",
+    "tag": "Distribution_Intention"
+  },
+  {
+    "text": "The meat can also be given to non-Muslims.",
+    "tag": "Distribution_Intention"
+  },
+  {
+    "text": "Selling the meat or accepting payment for any part of it is not allowed.",
+    "tag": "Distribution_Intention"
+  },
+  {
+    "text": "The purpose is to gain closeness to Allah, not just distribute meat.",
+    "tag": "Distribution_Intention"
+  },
+  {
+    "text": "Intention must be sincere and for Allah only.",
+    "tag": "Distribution_Intention"
+  },
+  {
+    "text": "Muslims offer Eid prayer, greet one another, and perform sacrifices.",
+    "tag": "General_Practice"
+  },
+  {
+    "text": "It is important to maintain cleanliness during and after sacrifice.",
+    "tag": "General_Practice"
+  },
+  {
+    "text": "Both men and women are required to sacrifice if they are sahib-e-nisab.",
+    "tag": "General_Practice"
+  },
+  {
+    "text": "In places where no Eid prayer is held, the time for sacrifice begins after the expected time of Eid prayer.",
+    "tag": "General_Practice"
+  },
+  {
+    "text": "While Eid ul-Adha is a time of joy for Muslims worldwide, families in Gaza often face Eid under occupation, bombing, and grief.",
+    "tag": "EidInWarZone"
+  },
+  {
+    "text": "Instead of hearing takbeerat, many wake up to the sound of drones and airstrikes.",
+    "tag": "EidInWarZone"
+  },
+  {
+    "text": "Displacement, poverty, and trauma overshadow Eid celebrations in war-torn areas like Gaza.",
+    "tag": "GazaUnderSiege"
+  },
+  {
+    "text": "Due to ongoing blockades and military aggression, food, medicine, clean water, and electricity are scarce, especially during Eid.",
+    "tag": "GazaUnderSiege"
+  },
+  {
+    "text": "Sacrificial animals are unavailable or unaffordable, making Qurbani nearly impossible for many.",
+    "tag": "ModernSacrifice"
+  },
+  {
+    "text": "Eid clothing, sweets, and gatherings traditions elsewhere become unreachable luxuries for Gazan families.",
+    "tag": "FaithInHardship"
+  },
+  {
+    "text": "Children in Gaza spend Eid in tents, hospitals, or mourning lost family members.",
+    "tag": "FaithInHardship"
+  },
+  {
+    "text": "I wanted new shoes for Eid. Instead, I lost my brother.",
+    "tag": "FaithInHardship"
+  },
+  {
+    "text": "Many children have never experienced a peaceful Eid in their lives.",
+    "tag": "FaithInHardship"
+  },
+  {
+    "text": "Despite the distance, Muslims around the world express solidarity with Gaza through du'as, donations, and awareness.",
+    "tag": "EidSolidarity"
+  },
+  {
+    "text": "Eid ul-Adha reminds us of sacrifice and compassion not only by offering animals but by standing with the oppressed.",
+    "tag": "ModernSacrifice"
+  },
+  {
+    "text": "Helping Gaza is a form of modern-day Qurbani: Giving from what we love to those in greatest need.",
+    "tag": "ModernSacrifice"
+  },
+  {
+    "text": "Eid is not just about new clothes, food, and celebration — it is a reminder of faith, sacrifice, and obedience.",
+    "tag": "Ethical_Reflection"
+  },
+  {
+    "text": "The story of Ibrahim (AS) teaches us that true sacrifice is giving up what we love most for the sake of Allah.",
+    "tag": "Ethical_Reflection"
+  },
+  {
+    "text": "While we enjoy food and blessings, we must remember those who are hungry, displaced, or grieving, like our brothers and sisters in Gaza, Sudan, Kashmir, and Yemen.",
+    "tag": "Compassion"
+  },
+  {
+    "text": "Sharing Qurbani meat is not just charity — it's an act of empathy and social justice.",
+    "tag": "Compassion"
+  },
+  {
+    "text": "Eid is a chance to reflect: What habits, ego, or selfishness can I sacrifice for Allah?",
+    "tag": "Inner_Sacrifice"
+  },
+  {
+    "text": "How can I serve others beyond just ritual acts?",
+    "tag": "Inner_Sacrifice"
+  },
+  {
+    "text": "Sacrifice is not just physical — it is spiritual, emotional, and social.",
+    "tag": "Inner_Sacrifice"
+  },
+  {
+    "text": "Eid reminds us that the Muslim Ummah is one body: when one part hurts, all feel the pain.",
+    "tag": "Unity"
+  },
+  {
+    "text": "From wealthy cities to refugee camps, we say the same takbeer: Allahu Akbar, Allahu Akbar, La ilaha illallah…",
+    "tag": "Unity"
+  },
+  {
+    "text": "In a world full of injustice, Eid is a moment to reclaim hope, dignity, and moral responsibility.",
+    "tag": "Message_To_World"
+  },
+  {
+    "text": "It teaches us to speak for the voiceless, help the oppressed, and stand up for what is right - just as Ibrahim (AS) stood firm in his faith.",
+    "tag": "Message_To_World"
+  },
+  {
+    "text": "While many celebrate Eid with joy and abundance, families in Gaza often spend Eid under the sound of bombs instead of takbeerat. Their Eid is marked by fear, displacement, and mourning.",
+    "tag": "Eid_In_Gaza"
+  },
+  {
+    "text": "Due to the blockade, Gaza faces a shortage of clean water, medicine, electricity, and even food during Eid days. Animal sacrifice becomes nearly impossible for many families.",
+    "tag": "Sacrifice_in_Gaza"
+  },
+  {
+    "text": "Several humanitarian organizations try to deliver Eid meals and medical supplies to those suffering in war zones.",
+    "tag": "Aid_Campaigns"
+  },
+  {
+    "text": "A young girl in Gaza said: 'I don't remember the last time we had a proper Eid meal. My father was martyred last Ramadan.'.",
+    "tag": "Story_of_Gaza"
+  },
+  {
+    "text": "May Allah accept our sacrifices and forgive our sins on this blessed Eid.",
+    "tag": "Dua"
+  },
+  {
+    "text": "O Allah, grant peace to the people of Gaza and protect the oppressed around the world.",
+    "tag": "Dua_Gaza"
+  },
+  {
+    "text": "Ya Allah, make us among those who remember You with gratitude and patience.",
+    "tag": "Dua"
+  },
+  {
+    "text": "We pray for the safety and relief of all those suffering in Palestine.",
+    "tag": "Dua_Gaza"
+  },
+  {
+    "text": "O Allah, accept our Qurbani and bless us with sincerity and humility.",
+    "tag": "Dua_Qurbani"
+  },
+  {
+    "text": "Ya Allah, bring peace to the lands of the oppressed and justice to the world.",
+    "tag": "Dua_Gaza"
+  },
+  {
+    "text": "May our Eid be filled with remembrance of Allah and love for humanity.",
+    "tag": "Dua"
+  },
+  {
+    "text": "O Allah, protect the Ummah, forgive our shortcomings, and unite our hearts.",
+    "tag": "Dua_Ummah"
+  },
+  {
+    "text": "We ask Allah to accept our good deeds and grant ease to those in hardship.",
+    "tag": "Dua_General"
+  },
+  {
+    "text": "May Allah bless every drop of blood and every tear shed in Gaza.",
+    "tag": "Dua_Gaza"
+  },
+  {
+    "text": "Bakra bola selfie le lo,\nQurbani se pehle reel bana lo,\nMain bhi viral hona chahta hoon,\nHalal se pehle trend bana lo🤳",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "Eid ati hai atak atak ker, \nMeri dost chalti hai matak matak ker",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "Daby mai daba daby mai cake, \nMeri dost lakhon mai aik",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "sawaiya paki hai sab ny chakhi hai, \nNa ro meri dost tery lye bhi rakhi hai",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "Arz kia hai Eid ai hai Zamany mai, \nMera dost gir gya hai ghusal khany mai",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "Mery hath mai phool hai \nKoi ashlyha to nahi \nAdvance Eid Mubarak bol do \nKoi masla to nahi",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "Aloo khaty ho, bhindi bhi khaya karo \nEid manany tum mery ghar bhi aya karo",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "Aam ky ras ko juice kehty hai, \nJo eidi na dy usy kanjoos kehty hai",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "Eid eid mat karo eid guzar jaygi \nItna fashion mat karo nazar lag jaygi",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "Chawal chunty chunty neend agai, \nSbah uth ky dekha to Eid agai",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "Garam garam roti tori ni jati \nAp sy dosti chori nahi jati",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "Sheer khurma, biryani ka zamana hai,\nEidi na milay to sab kuch begana hai!",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "Eid ai hai kia tuhfa du \nDill kerta hai plastic ka lota du",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "Daby mai daba daby mai injection, \nEid waly din dekhna Ayesha k action",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "neely neely roshni sahi ni jati, \nTum sy dosti tori nahi jati",
+    "tag": "funny_shair_o_shairi"
+  },
+  {
+    "text": "Mere hisse ki sewaiyan billi kha gayi,\nAb Eidi se ice cream khareedunga.",
+    "tag": "pet_problems"
+  },
+  {
+    "text": "Bachpan mein kehte the: 'Eid pe sab khush rehte hain',\nAb pata chala wifi nahi chale to sab udaas ho jate hain.",
+    "tag": "tech_dependency"
+  },
+  {
+    "text": "Dosto se kehte the: 'Eid pe meetha zaroor khana',\nAb kehte hain: 'Sugar level check kar lena'.",
+    "tag": "health_consciousness"
+  },
+  {
+    "text": "Dosto se kehte the: 'Eid pe party karenge',\nAb kehte hain: 'Netflix and chill kar lete hain'.",
+    "tag": "changed_priorities"
+  },
+  {
+    "text": "Eid Mubarak kehne ka tareeka thoda casual hai:\n'Bhai, UPI ID bhej, haath nahi milana'.",
+    "tag": "digital_eidi"
+  },
+  {
+    "text": "Bachpan mein kehte the: 'Eid pe sab dance karenge',\nAb kehte hain: 'Kamar mein dard hai'.",
+    "tag": "aging_problems"
+  },
+  {
+    "text": "Dosto se kehte the: 'Eid pe photo session karenge',\nAb kehte hain: 'Filter lagana mat bhoolna'.",
+    "tag": "social_media_obsession"
+  },
+  {
+    "text": "Bachpan mein kehte the: 'Eid pe late night jagayenge',\nAb 9 baje hi neend aa jati hai.",
+    "tag": "energy_levels"
+  },
+  {
+    "text": "Bachpan mein Eidi ke liye jaan dete the,\nAb to bas 'seen' kar dete hain.",
+    "tag": "growth"
+  },
+  {
+    "text": "Dosto se kehte the: 'Eid pe cricket khelenge',\nAb kehte hain: 'PUBG pe aa jao'.",
+    "tag": "gaming_generation"
+  },
+  {
+    "text": "Mamu ne Eidi di 50 rupaye,\nAur boli: 'Beta, Bitcoin mein le lena'.",
+    "tag": "investment_tips"
+  },
+  {
+    "text": "Bachpan mein kehte the: 'Eid pe bhookh nahi lagegi',\nAb diet pe hone ka bahana banate hain.",
+    "tag": "diet_excuses"
+  },
+  {
+    "text": "Dosto se kehte the: 'Eid pe shopping karenge',\nAb kehte hain: 'Sale ka intezaar kar rahe hain'.",
+    "tag": "budget_constraints"
+  },
+  {
+    "text": "Eid Mubarak bolne ka naya tareeka:\n'Bhai, UPI QR code scan kar le'.",
+    "tag": "cashless_eid"
+  },
+  {
+    "text": "Bachpan mein kehte the: 'Eid pe sab hasenge',\nAb hasne ke liye memes dekh rahe hain.",
+    "tag": "entertainment_evolution"
+  },
+  {
+    "text": "Bachpan mein kehte the: 'Eid pe fireworks dekhenge',\nAb kehte hain: 'Pollution kam karo yaar'.",
+    "tag": "environmental_awareness"
+  },
+  {
+    "text": "Mamu ne Eidi di 20 rupaye,\nAur kaha: 'Beta, lottery lagwa lena'.",
+    "tag": "financial_advice"
+  },
+  {
+    "text": "Eid pe dosto ne poocha: 'Kya plan hai?'\nHumne kaha: 'Ghar pe baith kar Eidi ka intezaar'.",
+    "tag": "eid_plans"
+  },
+  {
+    "text": "Dosto se kehte the: 'Eid pe antakshari karenge',\nAb Spotify playlist chalate hain.",
+    "tag": "music_evolution"
+  },
+  {
+    "text": "Eid pe chacha ne kaha: 'Beta, time change ho gaya',\nHumne kaha: 'Haan, ab Google Pay se Eidi bhejiye'.",
+    "tag": "payment_methods"
+  },
+  {
+    "text": "Bachpan mein kehte the: 'Eid pe storytelling session',\nAb Netflix series recommend karte hain.",
+    "tag": "content_consumption"
+  },
+  {
+    "text": "Eid ke din ammi ne kaha: 'Beta, sabko call kar ke Eid Mubarak bolo',\nHumne WhatsApp forward kar diya.",
+    "tag": "communication_laziness"
+  },
+  {
+    "text": "Dosto se kehte the: 'Eid pe kabaddi khelenge',\nAb kehte hain: 'Online multiplayer kar lete hain'.",
+    "tag": "gaming_preference"
+  },
+  {
+    "text": "Eid pe nani ne kaha: 'Beta, mere time mein...',\nHumne headphones laga liye.",
+    "tag": "generation_gap"
+  },
+  {
+    "text": "Bachpan mein kehte the: 'Eid pe magic show dekhenge',\nAb YouTube tutorials dekh kar seekh rahe hain.",
+    "tag": "self_learning"
+  },
+  {
+    "text": "Eid ki shopping ke liye market gaye,\nOnline rates dekh kar wapis aa gaye.",
+    "tag": "price_comparison"
+  },
+  {
+    "text": "Dosto se kehte the: 'Eid pe group photo lenge',\nAb selfie stick mandatory hai.",
+    "tag": "photography_evolution"
+  },
+  {
+    "text": "Eid pe papa ne kaha: 'Beta, bachpan yaad hai?',\nHumne kaha: 'Google Photos mein dekh lete hain'.",
+    "tag": "memory_digitization"
+  },
+  {
+    "text": "Bachpan mein kehte the: 'Eid pe carrom board nikalenge',\nAb mobile pe 8-ball pool khelate hain.",
+    "tag": "indoor_games"
+  },
+  {
+    "text": "Eid pe relatives ke bacche aaye,\nHumne WiFi password hide kar diya.",
+    "tag": "protective_measures"
+  },
+  {
+    "text": "Dosto se kehte the: 'Eid pe treasure hunt karenge',\nAb Flipkart sale mein discount hunt karte hain.",
+    "tag": "modern_hunting"
+  },
+  {
+    "text": "Eid pe chacha ne poocha: 'Beta, padhai kaisi chal rahi?',\nHumne YouTube University ka certificate dikhaya.",
+    "tag": "education_system"
+  },
+  {
+    "text": "Dosto se kehte the: 'Eid pe cricket commentary karenge',\nAb Hotstar pe dekh kar expert ban jate hain.",
+    "tag": "sports_consumption"
+  },
+  {
+    "text": "Eid ke preparation mein ammi ne kaha: 'Beta, help karo',\nHumne tutorial video share kar diya.",
+    "tag": "helping_methods"
+  },
+  {
+    "text": "Bachpan mein kehte the: 'Eid pe diary writing karenge',\nAb Instagram stories mein document karte hain.",
+    "tag": "life_documentation"
+  },
+  {
+    "text": "Eid ki cleaning mein participate karne ko kaha,\nHumne robot vacuum ki ad share kar di.",
+    "tag": "cleaning_automation"
+  },
+  {
+    "text": "Dosto se kehte the: 'Eid pe story writing karenge',\nAb AI writing tools try karte hain.",
+    "tag": "creative_writing"
+  },
+  {
+    "text": "Eid pe ammi ne kaha: 'Beta, time table banao',\nHumne Google Calendar invite bhej diya.",
+    "tag": "scheduling_tools"
+  },
+  {
+    "text": "Allah Hafiz. Have a peaceful and blessed Eid. Please don’t forget the people of Gaza in your prayers. 🤲🇵🇸",
+    "tag": "Allah_hafiz"
+  },
+  {
+    "text": "Allah Hafiz. May your Eid be filled with love and light. Keep Gaza in your thoughts and duas. 🕊️❤️",
+    "tag": "Allah_hafiz"
+  },
+  {
+    "text": "Allah Hafiz. Wishing you joy, safety, and serenity this Eid. Remember Gaza and pray for peace. 🌍💔",
+    "tag": "Allah_hafiz"
+  },
+  {
+    "text": "Allah Hafiz. Have a gentle and blessed Eid day. Gaza is still bleeding — don’t forget them. 🇵🇸🕊️",
+    "tag": "Allah_hafiz"
+  },
+  {
+    "text": "Allah Hafiz. May your heart stay soft and your prayers reach those in need. Especially Gaza. 🤍🌙",
+    "tag": "Allah_hafiz"
+  },
+  {
+    "text": "Allah Hafiz. Cherish your blessings this Eid, and please, make dua for Gaza. They need us. 🙏",
+    "tag": "Allah_hafiz"
+  },
+  {
+    "text": "Allah Hafiz. May you find peace in every moment. Gaza is in our hearts — always. ❤️🕊️",
+    "tag": "Allah_hafiz"
+  },
+  {
+    "text": "Allah Hafiz. Take a moment this Eid to be grateful — and to remember Gaza. 🤲💔",
+    "tag": "Allah_hafiz"
+  },
+  {
+    "text": "Allah Hafiz. Let this Eid be a time of compassion and prayer. Gaza needs both. 🌙🤍",
+    "tag": "Allah_hafiz"
+  },
+  {
+    "text": "Allah Hafiz. Enjoy your day with kindness in your heart. Don’t forget Gaza. 🫶",
+    "tag": "Allah_hafiz"
+  },
+  {
+    "text": "Fi Amanillah. May Allah protect you on your journey. Don’t forget to pray for Gaza. 🫶",
+    "tag": "Fi_Amanillah"
+  },
+  {
+    "text": "Fi Amanillah. May Allah protect you on your journey. Don’t forget to pray for Gaza. 🫶",
+    "tag": "Fi_Amanillah"
+  },
+  {
+    "text": "Goodbye! Wishing you a wonderful day ahead. Don’t forget to pray for Gaza. 🫶",
+    "tag": "general_goodbye"
+  },
+  {
+    "text": "Bye! Take care and stay blessed. Please, make dua for Gaza. They need us. 🙏",
+    "tag": "general_goodbye"
+  },
+  {
+    "text": "See you soon! May your days be filled with happiness. Gaza is still bleeding — don’t forget them. 🇵🇸🕊️",
+    "tag": "general_goodbye"
+  },
+  {
+    "text": "Good night! Sleep well and sweet dreams. Gaza is still bleeding — don’t forget them. 🇵🇸🕊️",
+    "tag": "formal_goodbye"
+  },
+  {
+    "text": "Until we meet again. Stay blessed!. Gaza is still bleeding — don’t forget them. 🇵🇸🕊️",
+    "tag": "formal_goodbye"
+  },
+  {
+    "text": "Likewise! Wishing you all the best.",
+    "tag": "nice_to_meet_you"
+  }
+]
