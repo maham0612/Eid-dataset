@@ -16,8 +16,8 @@ CORS(app)
 class EnhancedMultilingualEidQABot:
     def __init__(self, data_file='dataSet.json'):
         print("🔄 Loading multilingual models...")
-        self.bi_encoder = SentenceTransformer('paraphrase-multilingual-mpnet-base-v2')
-        self.cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-12-v2')
+        self.bi_encoder = None
+        self.cross_encoder = None
         print("📖 Processing dataset...")
         self.data = self._load_dataset(data_file)
         self.knowledge_chunks = self._create_chunks()
@@ -29,6 +29,16 @@ class EnhancedMultilingualEidQABot:
         )
         self.question_patterns = self._initialize_question_patterns()
         print("✅ Bot ready!\n")
+    def _ensure_embeddings(self):
+        if self.chunk_embeddings is None:
+            self._load_models()
+            print("🧠 Creating embeddings...")
+        self.chunk_embeddings = self.bi_encoder.encode(
+            [chunk['text'] for chunk in self.knowledge_chunks],
+            convert_to_tensor=True,
+            show_progress_bar=True
+        )
+
     
     def _load_dataset(self, data_file):
         try:
@@ -85,6 +95,14 @@ class EnhancedMultilingualEidQABot:
                     'score_boost': 1.3
                 })
         return chunks
+    def _load_models(self):
+        if self.bi_encoder is None:
+            print("🔄 Loading bi-encoder model...")
+            self.bi_encoder = SentenceTransformer('paraphrase-multilingual-mpnet-base-v2')
+        if self.cross_encoder is None:
+            print("🔄 Loading cross-encoder model...")
+            self.cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-12-v2')
+
     
     def _initialize_question_patterns(self):
         return {
@@ -137,6 +155,9 @@ class EnhancedMultilingualEidQABot:
         return any(self._fuzzy_match(word, time_keywords) for word in question.lower().split())
     
     def answer_question(self, question: str) -> str:
+        self._load_models()
+        self._ensure_embeddings()
+
         cleaned_question = self._clean_input(question)
         if not cleaned_question:
             return self._get_default_response('empty')
