@@ -1,4 +1,8 @@
 flask
+flask-cors
 torch
 transformers
 sentence-transformers
+fuzzywuzzy
+python-Levenshtein
+
