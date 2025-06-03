@@ -332,6 +332,15 @@ def random_shair():
 def contextual_info():
     info = bot.get_contextual_info()
     return jsonify({'answer': info})
+@app.route('/warmup', methods=['GET'])
+def warmup():
+    try:
+        bot._load_models()
+        bot._ensure_embeddings()
+        return jsonify({'status': 'Models warmed up and embeddings ready.'})
+    except Exception as e:
+        return jsonify({'error': str(e)})
+
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
