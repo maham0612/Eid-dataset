@@ -21,12 +21,7 @@ class EnhancedMultilingualEidQABot:
         print("📖 Processing dataset...")
         self.data = self._load_dataset(data_file)
         self.knowledge_chunks = self._create_chunks()
-        print("🧠 Encoding embeddings...")
-        self.chunk_embeddings = self.bi_encoder.encode(
-            [chunk['text'] for chunk in self.knowledge_chunks],
-            convert_to_tensor=True,
-            show_progress_bar=True
-        )
+        self.chunk_embeddings = None
         self.question_patterns = self._initialize_question_patterns()
         print("✅ Bot ready!\n")
     def _ensure_embeddings(self):
